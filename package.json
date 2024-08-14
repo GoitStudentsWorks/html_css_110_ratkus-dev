@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-DevStudents/",
+    "build": "vite build --base=/html_css_110_ratkus-dev/",
     "preview": "vite preview"
   },
   "devDependencies": {
